@@ -1,4 +1,3 @@
-// controllers/temperatureController.js
 const TemperatureModel = require("../models/temperatureModel");
 
 class TemperatureController {

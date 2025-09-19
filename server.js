@@ -13,6 +13,7 @@ const PORT = process.env.PORT || 3001;
 app.use(
   cors({
     origin: "https://convetidor-front.vercel.app",
+    origin: "http://localhost:5173",
   })
 );
 app.use(express.json());

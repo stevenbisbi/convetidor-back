@@ -1,4 +1,3 @@
-// controllers/timeController.js
 const TimeModel = require("../models/timeModel");
 
 class TimeController {

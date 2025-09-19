@@ -1,4 +1,3 @@
-// controllers/currencyController.js
 const CurrencyModel = require("../models/currencyModel");
 
 class CurrencyController {

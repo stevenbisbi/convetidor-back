@@ -1,4 +1,3 @@
-// routes/weightRoutes.js
 const express = require("express");
 const WeightController = require("../controllers/weightController");
 

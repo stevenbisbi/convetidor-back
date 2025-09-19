@@ -1,4 +1,3 @@
-// models/weightModel.js
 class WeightModel {
   constructor() {
     // Conversiones a gramos base

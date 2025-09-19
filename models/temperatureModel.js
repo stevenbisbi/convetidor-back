@@ -1,4 +1,3 @@
-// models/temperatureModel.js
 class TemperatureModel {
   constructor() {
     this.units = ["celsius", "fahrenheit", "kelvin"];

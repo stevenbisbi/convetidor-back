@@ -1,4 +1,3 @@
-// routes/temperatureRoutes.js
 const express = require("express");
 const TemperatureController = require("../controllers/temperatureController");
 

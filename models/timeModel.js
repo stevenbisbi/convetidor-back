@@ -1,4 +1,3 @@
-// models/timeModel.js
 class TimeModel {
   constructor() {
     // Conversiones a minutos base

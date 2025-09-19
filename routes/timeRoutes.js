@@ -1,4 +1,3 @@
-// routes/timeRoutes.js
 const express = require("express");
 const TimeController = require("../controllers/timeController");
 

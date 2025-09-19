@@ -1,4 +1,3 @@
-// models/currencyModel.js
 class CurrencyModel {
   constructor() {
     this.units = ["usd", "cop", "eur"];

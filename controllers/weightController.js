@@ -1,4 +1,3 @@
-// controllers/weightController.js
 const WeightModel = require("../models/weightModel");
 
 class WeightController {
